@@ -57,7 +57,7 @@ nav ul {
 nav ul li {
     /* padding: 1.25rem 1rem 1rem; */
     background:  #7bc043;
-    padding-top: 1.5rem;
+    padding-top: 1.2rem;
     
 }
 
@@ -117,8 +117,8 @@ small:hover {
     color: #0392cf;
 }
 .piano-logo {
-    height: 25px;
-    width: 25px;
+    height: 30px;
+    width: 30px;
 }
 .piano:hover {
     background: #0392cf;
@@ -130,7 +130,8 @@ small:hover {
     background: #0392cf;
 }
 .logo-div img {
-    padding: 1rem;
+    padding: .75rem .75rem .75rem .85rem;
+    margin-top: .2rem;
 }
 .grid-div {
     display: grid;
